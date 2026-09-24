@@ -2,6 +2,8 @@
 SQL analysis of Chicago socioeconomic indicators, public school performance data, and crime records using Python and SQLite.
 # Chicago Crime, Schools & Socioeconomic SQL Analysis
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1n_FNY0TDmedgxlo8WJrCvMgVeQfYz4Py#scrollTo=PY9PRmrVC5oR)
+
 > **Credential Note:** Completed as part of the **IBM Data Science Professional Certificate** on Coursera.
 
 ## 📌 Project Overview
@@ -37,15 +39,15 @@ Using SQL queries and Python data processing, the project analyzes spatial and d
 - **Language:** Python 3.x, SQL
 - **Libraries:** Pandas, NumPy, Matplotlib, Seaborn, SQLite / DB-API
 - **Platform & Certification:** Coursera (IBM Data Science Professional Certificate)
-- **Environment:** Jupyter Notebook / IBM Skills Network Labs
+- **Environment:** Jupyter Notebook / Google Colab / IBM Skills Network Labs
 - **Version Control:** Git & GitHub
 
 ---
 
-## 🚀 How to Run the Notebook
-1. Clone this repository:
-   ```bash
-   git clone [https://github.com/ayekhan1331-a11y/chicago-crime-and-census-sql-analysis.git](https://github.com/ayekhan1331-a11y/chicago-crime-and-census-sql-analysis.git)
+## 🚀 How to Run in Google Colab
+1. Click the **Open In Colab** badge above.
+2. Upload the required CSV/Excel dataset files to the Colab session storage panel (left sidebar 📁).
+3. Execute all cells sequentially (`Shift + Enter`).
 
 ## 🚀 How to Run the Notebook
 1. Clone this repository:
