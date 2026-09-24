@@ -2,6 +2,8 @@
 SQL analysis of Chicago socioeconomic indicators, public school performance data, and crime records using Python and SQLite.
 # Chicago Crime, Schools & Socioeconomic SQL Analysis
 
+> **Credential Note:** Completed as part of the **IBM Data Science Professional Certificate** on Coursera.
+
 ## 📌 Project Overview
 This project performs an exploratory data analysis combining three real-world relational datasets from the City of Chicago Data Portal: Crime Incidents, Public School Performance Metrics, and Socioeconomic Indicators. 
 
@@ -20,7 +22,7 @@ Using SQL queries and Python data processing, the project analyzes spatial and d
 - **Relational Data Joining:** Executed multi-table `INNER JOIN` and `LEFT JOIN` operations across community areas and school IDs.
 - **Aggregation & Grouping:** Utilized `GROUP BY`, `HAVING`, and aggregate functions (`COUNT`, `AVG`, `SUM`) to rank high-density crime zones and evaluate hardship scores.
 - **Subqueries & Nested Logic:** Applied nested SQL queries to identify community areas with above-average hardship indices and low safety scores.
-- **Data Integration in Python:** Ran embedded SQL queries using Python database connectors and analyzed results using Pandas.
+- **Data Integration in Python:** Ran embedded SQL queries using Python database connectors (DB-API / SQLAlchemy) and analyzed results using Pandas.
 
 ---
 
@@ -33,11 +35,17 @@ Using SQL queries and Python data processing, the project analyzes spatial and d
 
 ## 🧰 Tech Stack & Tools
 - **Language:** Python 3.x, SQL
-- **Libraries:** Pandas, NumPy, Matplotlib, Seaborn, SQLite / SQLAlchemy
-- **Environment:** Jupyter Notebook / Google Colab
+- **Libraries:** Pandas, NumPy, Matplotlib, Seaborn, SQLite / DB-API
+- **Platform & Certification:** Coursera (IBM Data Science Professional Certificate)
+- **Environment:** Jupyter Notebook / IBM Skills Network Labs
 - **Version Control:** Git & GitHub
 
 ---
+
+## 🚀 How to Run the Notebook
+1. Clone this repository:
+   ```bash
+   git clone [https://github.com/ayekhan1331-a11y/chicago-crime-and-census-sql-analysis.git](https://github.com/ayekhan1331-a11y/chicago-crime-and-census-sql-analysis.git)
 
 ## 🚀 How to Run the Notebook
 1. Clone this repository:
